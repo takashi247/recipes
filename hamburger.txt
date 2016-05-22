@@ -1,0 +1,15 @@
+Ingredients:
+ - beef
+ - onion
+ - lettuce
+ - tomatos
+ - cheese
+ - buns
+ - mayonnaise
+
+Directions:
+ 1. Make the patty.
+ 
+ 2. Grill the patty.
+ 
+ 3. Put the grill patty between buns with vegetables.
